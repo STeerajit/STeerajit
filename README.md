@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Tee Seerajit
+# Hey, I'm Tee Teerajit
 
 ### 🤖 AI/ML Engineer | Thai Text-to-SQL · RAG · LoRA Fine-tuning
 
